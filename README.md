@@ -6,7 +6,8 @@ React Native, NativeBase, Router, Flux
 3. npm install
 4. react-native run-ios or react-native run-android
 
-#More information:
+More information:
+
 https://facebook.github.io/react-native/docs/getting-started.html
 
 https://nativebase.io/
